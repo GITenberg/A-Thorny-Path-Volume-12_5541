@@ -1,5 +1,5 @@
 _repo: A-Thorny-Path-Volume-12_5541
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -34,5 +34,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- 30 B.C.-640 A.D. -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: A Thorny Path — Volume 12
 url: http://www.gutenberg.org/ebooks/5541
